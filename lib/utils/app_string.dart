@@ -1,0 +1,29 @@
+class AppString{
+  static const String hemendra = "Hemendra";
+  static const String laza = "Welcome to Laza.";
+  static const String chooseBrand = "Choose Brand";
+  static const String viewAll = "View All";
+  static const String adidas = "Adidas";
+  static const String nike = "Nike";
+  static const String fila = "Fila";
+  static const String puma = "Puma";
+  static const String newArraival = "New Arraival";
+  static const String verifiedProfile = "Verified Profile";
+  static const String order = "3 orders";
+  static const String accountInfo = "Account Information";
+  static const String password = "Password";
+  static const String orders = "Order";
+  static const String mycards = "My Cards";
+  static const String wishlist = "Wishlist";
+  static const String settings = "Settings";
+  static const String logout = "Logout";
+  static const String printed = "Men's Printed Pullover Hoodie";
+  static const String price = "Price";
+  static const String fleece = "Nike Club Fleece";
+  static const String size = "Size";
+  static const String sizeGuide = "Size Guide";
+  static const String description = "Description";
+  static const String read = "The Nike Throwback Pullover Hoodie is made from premium French terry fabric that blends a performance feel with Read More..";
+  static const String reviews = "Reviews";
+  static const String view = "View";
+}
